@@ -15,7 +15,7 @@ public class BuyList {
         {
             String name = stringTokenizer.nextToken();
             String amount = stringTokenizer.nextToken();
-            items.add(new Item(name,Integer.parseInt(amount));
+            items.add(new Item(name,Integer.parseInt(amount)));
         }
     }
     public ArrayList<Item> getItems()
