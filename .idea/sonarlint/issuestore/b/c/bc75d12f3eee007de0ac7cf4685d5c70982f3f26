@@ -1,8 +1,5 @@
 
-Y
-java:S2629"7Use the built-in formatting to construct this argument.(®Î»üÿÿÿÿ8Æ¶£ã¥1
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ÓìÓÂüÿÿÿÿ8¯Ç¤1
 O
-java:S1135	"2Complete the task associated to this TODO comment.(®Ş™í8ÎÎã¥1
-c
-java:S3457"AFormat specifiers should be used instead of string concatenation.(®Î»üÿÿÿÿ8Î¶£ã¥1
-L	java:S106"+Replace this use of System.out by a logger.(Î®µòüÿÿÿÿ8ÏÎã¥1
+java:S1135"2Complete the task associated to this TODO comment.(®Ş™í8’¯Ç¤1
