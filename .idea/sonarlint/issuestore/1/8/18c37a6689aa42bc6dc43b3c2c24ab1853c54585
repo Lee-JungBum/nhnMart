@@ -1,11 +1,10 @@
 
-w
-java:S1450	"URemove the "basket" field and declare it as a local variable in the relevant methods.(ó“ÃÖùÿÿÿÿ8 ñ§Ç¤1
 T
-java:S1135"2Complete the task associated to this TODO comment.(Æ‡‚ƒÿÿÿÿÿ8¢ñ§Ç¤1
+java:S2629("7Use the built-in formatting to construct this argument.(ëˆÓ8üÌ«ã¥1
 T
-java:S1135"2Complete the task associated to this TODO comment.(Å¡Éüÿÿÿÿ8¢ñ§Ç¤1
-G
-java:S1068"+Remove this unused "buyList" private field.(ì×–k8¢ñ§Ç¤1
-L
-java:S1068	"*Remove this unused "basket" private field.(ó“ÃÖùÿÿÿÿ8¢ñ§Ç¤1
+java:S1135"2Complete the task associated to this TODO comment.(Æ‡‚ƒÿÿÿÿÿ8®ŒŒã¥1
+T
+java:S1135$"2Complete the task associated to this TODO comment.(Å¡Éüÿÿÿÿ8±ŒŒã¥1
+^
+java:S3457("AFormat specifiers should be used instead of string concatenation.(ëˆÓ8“Í«ã¥1
+L	java:S106)"+Replace this use of System.out by a logger.(¹åş¿üÿÿÿÿ8ËŠ©ã¥1

@@ -8,4 +8,12 @@ public class Basket {
     public void add(Food food) {
         foods.add(food);
     }
+
+    public int sum() {
+        int reslut = 0;
+        for (Food food : foods) {
+            reslut += food.getPrice();
+        }
+        return reslut;
+    }
 }
