@@ -1,6 +1,11 @@
 package com.nhnacademy.mart;
 
+import java.util.Scanner;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 public class NhnMartShell {
+    private static final Logger logger = LoggerFactory.getLogger(NhnMart.class);
 
     public static void main(String[] args) {
         NhnMart mart = new NhnMart();
@@ -26,11 +31,14 @@ public class NhnMartShell {
 
     private static BuyList inputBuyListFromShell() {
         // TODO Scanner 입력을 받아 buyList 만들기
-
+        System.out.println("NHN 마트에 오신 것을 환영합니다. 사고 싶은 물건을 골라주세요.\n");
+        Scanner scanner = new Scanner(System.in);
         BuyList buyList = new BuyList();
 
-        buyList.add(???);
-
-        return null;
+        buyList.add(scanner.nextLine());
+        for (BuyList.Item item : buyList.getItems()) {
+            logger.info(item.getName() + ": " + item.getAmount());
+        }
+        return buyList;
     }
 }
