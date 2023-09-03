@@ -42,3 +42,20 @@
 2023-09-04 04:01:36,300 [main] INFO c.n.m.NhnMart [NhnMartShell.java:40] - 계란: 5
 2023-09-04 04:01:36,300 [main] INFO c.n.m.NhnMart [NhnMartShell.java:40] - 파: 4
 2023-09-04 04:01:36,302 [main] WARN c.n.m.Counter [Counter.java:13] - 돈을 초과하는 상품 구매
+2023-09-04 04:10:35,371 [main] INFO c.n.m.Counter [Counter.java:16] - 총 14000원
+2023-09-04 04:10:35,380 [main] INFO c.n.m.Customer [Customer.java:37] - 잔돈 : 6000
+2023-09-04 04:11:54,182 [main] INFO c.n.m.Counter [Counter.java:16] - 총 14000원
+2023-09-04 04:11:54,187 [main] INFO c.n.m.Customer [Customer.java:37] - 잔돈 : 6000
+2023-09-04 04:15:18,191 [main] INFO c.n.m.Counter [Counter.java:16] - 총 20000원
+2023-09-04 04:15:18,196 [main] INFO c.n.m.Customer [Customer.java:37] - 잔돈 : 0
+2023-09-04 04:15:32,056 [main] WARN c.n.m.Counter [Counter.java:13] - 돈을 초과하는 상품 구매
+2023-09-04 04:15:57,493 [main] INFO c.n.m.Counter [Counter.java:16] - 총 14000원
+2023-09-04 04:15:57,507 [main] INFO c.n.m.Customer [Customer.java:37] - 잔돈 : 6000
+2023-09-04 04:15:57,539 [main] WARN c.n.m.Counter [Counter.java:13] - 돈을 초과하는 상품 구매
+2023-09-04 04:18:15,024 [main] INFO c.n.m.Counter [Counter.java:16] - 총 14000원
+2023-09-04 04:18:15,029 [main] INFO c.n.m.Customer [Customer.java:37] - 잔돈 : 6000
+2023-09-04 04:18:15,039 [main] INFO c.n.m.Counter [Counter.java:16] - 총 2000원
+2023-09-04 04:18:15,039 [main] INFO c.n.m.Customer [Customer.java:37] - 잔돈 : 18000
+2023-09-04 04:18:15,041 [main] INFO c.n.m.Counter [Counter.java:16] - 총 0원
+2023-09-04 04:18:15,042 [main] INFO c.n.m.Customer [Customer.java:37] - 잔돈 : 20000
+2023-09-04 04:18:15,045 [main] WARN c.n.m.Counter [Counter.java:13] - 돈을 초과하는 상품 구매

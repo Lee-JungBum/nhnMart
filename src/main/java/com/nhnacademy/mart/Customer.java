@@ -32,10 +32,11 @@ public class Customer {
     }
 
     // TODO payTox 메서드 구현
-    public void payTox(Counter counter) {
+    public int payTox(Counter counter) {
         money = counter.pay(money, basket);
         loger.info("잔돈 : " + money);
         System.out.println("고객님 결제 후 잔액 : " + money);
+        return money;
     }
 
 }
